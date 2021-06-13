@@ -27,10 +27,15 @@
   
 ### Step 3: Installing Required Dependencies
 
-- Open Command Prompt
+- Open Command Prompt and run the follwing commands
+
 > cd projectFolder
+
 > venv\Scripts\activate.bat
+
 > pip install -r requirements.txt
+
+> python manage.py runserver
 
 ### Step 4: Open the Folder as a Project in any Editor
 
