@@ -44,9 +44,9 @@
 
 > venv\Scripts\activate.bat
 
-> pip install -r requirements.txt
-
 > cd EcomStore
+
+> pip install -r requirements.txt
 
 > python manage.py runserver
 
